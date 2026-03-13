@@ -7,11 +7,11 @@
 //4. Two pointers are used to compare characters from the start and end of the array.
 //5. If all characters match, the string is a palindrome.
 //6. The result is displayed on the console.
-//objective: To check whether a string is a palindrome by converting the string into a character array and comparing characters from the beginning and end.
+//objective: To check whether a string is a palindrome by using a stack data structure to reverse the characters and compare it with the original string.
 // Topics covered:
-//- Character Array
-//- Array Indexing
-//- Two pointer Technique
-//- If Conditional Statement
+//- Stack Data Structure
+//- Push Operation
+//- Pop operation
+//- String Comparison using equals
 //- Console Output
-// UC4-CharacterArrayBasedPC
+// UC5-StackBasedPC
