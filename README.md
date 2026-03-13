@@ -2,16 +2,16 @@
 // running procedure
 // flow of project: 
 //1. Program starts.
-//2. A hardcoded string is defined in the program.
-//3. The program checks whether the string is a palindrome.
-//4. The result is displayed on the console.
-//5. Program exits.
-//objective: To check whether a hardcoded string is a palindrome and display the result on the console.
+//2. A string is stored in a variable.
+//3. The string is reversed using a for loop.
+//4. The reversed string is compared with the original string.
+//5. The result is displayed on the console
+//objective: To check whether a string is a palindrome by reversing the string and comparing it with the original string.
 // Topics covered:
 //- Java Class
 //- Main Method
-//- Static Keyword
-//- String Data Type
-//- Conditional Statements (if-else)
-//- Console Output (System.out.println)
-// UC2-PANLINDRONERESULT
+//- For loop
+//- String immutability
+//- String Concatenation (+)
+//- Console Method
+// UC3-PANLINDRONEREVERSE
