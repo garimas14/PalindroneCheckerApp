@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PalindroneCheckerApp/PalindroneCheckerApp.iml" filepath="$PROJECT_DIR$/PalindroneCheckerApp/PalindroneCheckerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindroneCheckerApp/PanlindromeCheckerApp.java/PanlindromeCheckerApp.java.iml" filepath="$PROJECT_DIR$/PalindroneCheckerApp/PanlindromeCheckerApp.java/PanlindromeCheckerApp.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RA2411056010198.iml" filepath="$PROJECT_DIR$/.idea/RA2411056010198.iml" />
+    </modules>
+  </component>
+</project>
